@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+:root {
+    --color-primary: #FF8400;
+}
+
+html, body {
+    height: 100%;
+    font-family: "Ubuntu", sans-serif;
+    /*
+    Height: Tamanho de ocupação do body na janela do browser
+    Font-family: Informa o tipo de fonte a ser utilizada no projeto, se ela não for 
+    localizada, retorna sans-serif, nesse caso
+    
+    */
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.content {
+    flex: 1 0 auto;
+}
+
+.footer {
+    flex-shrink: 0;
+    text-align: center;
+}
+
+.bg-primary {
+    background-color: var(--color-primary) !important;
+}
+
+.text-primary {
+    color: var(--color-primary) !important;
+}
+
+/*
+
+bg-primary e text-primary são valores padrões que vem do BootStrap
+por mais que possuem tais valores, elas podem ser modificadas, atribuindo
+outras cires
+
+*/
