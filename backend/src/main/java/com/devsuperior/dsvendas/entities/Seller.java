@@ -30,7 +30,7 @@ public class Seller {
 	}
 
 	public Seller(Long id, String name) {
-		Id = id;
+		this.Id  = id;
 		this.name = name;
 	}
 
