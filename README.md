@@ -7,4 +7,4 @@ Projeto com fins educativos, instruído pelo professor Nélio Alves por meio da 
 Acesse esse projeto em https://victorness-dsvendas.netlify.app/
 :::
 
-# Agradeço pela oportunidade e pelo conhecimento transmitido nas aulas, adicionou muito no meu avanço como Dev. Mal espero para os proximos eventos da DevSuperior
+Agradeço pela oportunidade e pelo conhecimento transmitido nas aulas, adicionou muito no meu avanço como Dev. Mal espero para os proximos eventos da DevSuperior
