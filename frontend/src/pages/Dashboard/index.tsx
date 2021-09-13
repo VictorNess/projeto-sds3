@@ -26,8 +26,8 @@ const Dashboard = () => {
                     <h2 className="text-primary"> Todas vendas</h2>
                 </div>
 
-
-                <DataTable/>
+                <DataTable />
+                
             </div>
             <Footer/>
         </>
